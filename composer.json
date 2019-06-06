@@ -1,5 +1,5 @@
 {
-    "name": "qianlizeguo/yii2-hejiang-sms",
+    "name": "qianlizeguo/yii2-mall-sms",
     "description": "Third-party SMS gateway service integrations for Yii2.",
     "type": "library",
     "require": {
